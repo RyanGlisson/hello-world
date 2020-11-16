@@ -8,9 +8,11 @@ _This sentence is italicized_
 **[Here is a link to google]**(google.com)
 ~~Lets cross this sentence out.~~
 >> Blockquotes can be nested 
+
 Here are some things I enjoy: 
 + Apples
 + Pizza
 + Watching movies
-+ PLaying video games
++ Playing video games
+
 :-)
